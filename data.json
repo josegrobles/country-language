@@ -439,6 +439,10 @@
       ],
       "direction": "LTR",
       "family": "Language isolate",
+      "countries":
+      [
+        "ESP"
+        ],
       "langCultureMs": [
         {
           "langCultureName": "eu-ES",
@@ -629,7 +633,7 @@
       "direction": "LTR",
       "family": "Indo-European",
       "countries": [
-        "AND"
+        "ESP"
       ],
       "langCultureMs": [
         {
